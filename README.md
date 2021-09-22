@@ -11,3 +11,8 @@ The classifier should be able to classify images like these:
 
 
 Special thanks to Udacity mentors for the guidance on this project. 
+
+
+## Acknowledgement
+
+Special thanks to Udacity mentors for providing guidance on this project.
