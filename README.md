@@ -1,6 +1,7 @@
 # CIFAR-10_Image_Classifier
 
 CIFAR-10
+
 This classifier is trained and evaluated on one of the most classic and well-studied computer vision data sets, CIFAR-10. This dataset has spurred loads of innovation in neural network design and implementation. The current state of the art is a 99% accuracy rate, achieved by GPipe, which has 557 million parameters and was developed in late 2018. I used CNN in this project for this CIFAR-10 task. 
 
 
